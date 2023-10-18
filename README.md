@@ -1,2 +1,1 @@
-# BMI-project
-BMI calculator project
+# BMI
